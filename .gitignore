@@ -1,0 +1,8 @@
+.env
+Processing codes/.env
+
+# Large local artifacts
+Datasets/All Data collected/*.parquet
+Final Report (1).pdf
+Final Report.docx
+GenAI Lab Final Project Presentation- Group 2.pptx
